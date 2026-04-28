@@ -1,5 +1,5 @@
-About Me:
-I’m currently working on<br>AI-based applications and computer vision projects, focusing on real-world problem solving<br> I’m looking to collaborate on<br>AI/ML projects, computer vision systems, and full-stack or Android applications<br> I’m looking for help with<br>Improving deep learning models, optimization techniques, and scalable system design<br> I’m currently learning<br>Advanced deep learning, system design, and full-stack development<br> Ask me about<br>AI, computer vision, C++, Python, Android development, and building real-world projects<br> Fun fact<br>I’ve built projects ranging from deep learning systems to games in assembly language 
+# About Me:
+I’m currently working on<br>AI-based applications and computer vision projects, focusing on real-world problem solving<br> I’m looking to collaborate on<br> Mobile App projects ,AI/ML projects, computer vision systems, and full-stack or Android applications<br> I’m looking for help with<br>Improving deep learning models, optimization techniques, and scalable system design<br> I’m currently learning<br>Advanced deep learning, system design, and full-stack development<br> Ask me about<br>AI, computer vision, C++, Python, Android development, and building real-world projects<br> Fun fact<br>I’ve built projects ranging from deep learning systems to games in assembly language 
 
 
 ## 🌐 Socials:
